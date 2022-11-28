@@ -2,6 +2,9 @@
 Jeong Ye Chan
 dpcks135@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan0318)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🔨 Technology Stacks
 <br>
 Frontend :         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
