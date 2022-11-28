@@ -2,7 +2,7 @@
 Jeong Ye Chan
 dpcks135@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan0318)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan0318&count_private=true)
 
 
 🔨 Technology Stacks
